@@ -5,7 +5,7 @@ This repository is used only for tracking bugs and feature requests for
 source code.
 
 - 📦 Download the mod on [Modrinth](https://modrinth.com/mod/combatindicator)
-- 🐞 Found a bug or have a suggestion? [Open an issue](../../issues/new/choose)
+- 🐞 Found a bug or have a suggestion? [Open an issue](https://github.com/Fortunich/combatindicator/issues)
 
 When reporting a bug, please include:
 - Minecraft version
